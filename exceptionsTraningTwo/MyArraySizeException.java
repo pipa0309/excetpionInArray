@@ -1,4 +1,4 @@
-//for check
+//check
 package exceptionsTraningTwo;
 
 public class MyArraySizeException extends Exception {
