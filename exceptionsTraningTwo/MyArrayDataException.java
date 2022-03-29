@@ -1,4 +1,4 @@
-
+//check
 package exceptionsTraningTwo;
 
 public class MyArrayDataException extends Exception {
